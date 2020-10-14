@@ -1,16 +1,12 @@
-# flutterapp2
+# flutterapp
 
-A new Flutter application.
+A Flutter application.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<h1>Screenshots of the Application</h1>
 
-A few resources to get you started if this is your first Flutter project:
+<img src="App_Screenshots/Screenshot_2020-10-13-03-21-08-712_com.example.flutterapp2.png width="400"/>
+   
+   <img src="books_junction_images/register_accnt2.png" width="400" hspace="20"/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
